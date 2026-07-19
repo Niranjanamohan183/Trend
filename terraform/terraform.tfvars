@@ -1,5 +1,5 @@
 aws_region     = "ap-south-1"
-key_pair_name  = "trendify-key"
-my_ip_cidr     = "2401:4900:1f2d:5d92:ad12:da4c:74a3:bd93/32"
+key_pair_name  = "trendify-Key"
+my_ip_cidr     = "106.222.221.200/32"
 instance_type  = "t3.medium"
 project_name   = "trendify-devops"
