@@ -1,0 +1,10 @@
+.git
+.gitignore
+README.md
+*.md
+terraform/
+k8s/
+Jenkinsfile
+screenshots/
+*.log
+.DS_Store
